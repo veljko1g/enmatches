@@ -1,0 +1,60 @@
+[
+ {
+
+      "team1": "Liverpool FC",
+      "team2": "Norwich City FC",
+      "score": "4:1"
+    },
+    {
+
+      "team1": "West Ham United FC",
+      "team2": "Manchester City FC",
+      "score": "0:5"
+    },
+    {
+
+      "team1": "Burnley FC",
+      "team2": "Southampton FC",
+      "score": "3:0"
+    },
+    {
+
+      "team1": "AFC Bournemouth",
+      "team2": "Sheffield United FC",
+      "score": "1:1"
+    },
+    {
+
+      "team1": "Crystal Palace FC",
+      "team2": "Everton FC",
+      "score": "0:0"
+    },
+    {
+
+      "team1": "Watford FC",
+      "team2": "Brighton & Hove Albion FC",
+      "score": "0:3"
+    },
+    {
+
+      "team1": "Tottenham Hotspur FC",
+      "team2": "Aston Villa FC",
+      "score": "3:1"
+    },
+    {
+      "team1": "Leicester City FC",
+      "team2": "Wolverhampton Wanderers FC",
+      "score": "0:0"
+    }
+    {
+
+      "team1": "Newcastle United FC",
+      "team2": "Arsenal FC",
+      "score": 0:1
+    },
+    {
+      "team1": "Manchester United FC",
+      "team2": "Chelsea FC",
+      "score": "4:0"
+    }
+]
